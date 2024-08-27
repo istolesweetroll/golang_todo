@@ -1,1 +1,1 @@
-# golang_todo
+A simple command line to-do list application written for purpose of learning Go.
